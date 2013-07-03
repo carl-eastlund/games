@@ -1,0 +1,44 @@
+
+Name: Jack Johnson
+Player: Carl Eastlund
+Campaign: Odin
+Template: Badass
+Bumps: 3 + 1 bonus
+XP: 0
+
+Power: Comprehensive Combat Training, Level 5
+Jack is trained in all regulation weapons and combat tactics.
+(ranged combat, automatic defense vs ranged attacks)
+
+Power: Bar-room Brawler, Level 5
+Jack has extensive off-duty experience in hand-to-hand combat.
+(melee combat, automatic defense vs melee attacks)
+
+Power: Space Hot-Rodder, Level 5
+Jack has basic training as a pilot, and has clocked many hours of practice in
+unofficial drag races.
+
+Shtick: Intimidating Countenance, Level 4
+Jack is well over six feet and built like a brick wall.  Whether staring down
+the enemy before a fight or questioning suspects in an interrogation room,
+he is One Scary Guy.
+
+Shtick: Handy-Man, Level 4
+While Jack loves a fight above all else, in day-to-day ship operations there's
+not much fighting to do.  So Jack also knows how to fix things.
+
+Shtick: Security, Level 4
+Obviously, with someone this tough, you want them on your security detail.
+Knowing security procedures and systems helps Jack enforce the rules... and
+occasionally bend them.
+
+Shtick: Demolitions, Level 4
+Can you believe it?  They let this guy handle explosives!
+
+Complication, Major: Aggression and poor impulse control.
+It's just how he is.  He's easily brought to heel by someone further up the
+command chain; he obeys direct orders.  But he usually needs to be kept on a
+short leash, or else he causes trouble for himself and others.
+
+Complication, Minor: low-level racism.
+He's not a racist, but...  No offense, but...  I'm just sayin', is all.
