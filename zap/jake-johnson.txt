@@ -1,10 +1,10 @@
 
-Name: Jack Johnson
+Name: Jake Johnson
 Player: Carl Eastlund
-Campaign: Odin
+Campaign: Concord
 Template: Badass
 Bumps: 3 + 1 bonus
-XP: 0
+XP: 2
 
 Power: Comprehensive Combat Training, Level 5
 Jack is trained in all regulation weapons and combat tactics.
