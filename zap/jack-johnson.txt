@@ -5,6 +5,7 @@ Level: 7
 Str 13, Dex 10, Int 8, Cha 12
 HP: 39
 
+Experience: 1 pt
 Human: Drive, Flexibility
 
 Skill: Physical
