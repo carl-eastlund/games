@@ -1,0 +1,13 @@
+
+Name: Jack Johnson
+
+Level: 4
+Str 13, Dex 10, Int 8, Cha 12
+HP: 22
+
+Human: Drive, Flexibility
+
+Skill: Physical
+
+Talents: 4 (2 start + 1 human + 1 @ 3)
+Red Shirt: Brawler, Durable, Power Attack, Judo
